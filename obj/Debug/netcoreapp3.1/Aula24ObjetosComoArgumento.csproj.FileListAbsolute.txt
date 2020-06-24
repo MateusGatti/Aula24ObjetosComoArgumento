@@ -1,0 +1,13 @@
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.exe
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.deps.json
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.dll
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.pdb
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.dll
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.pdb
+C:\Users\mtgat\Documents\Projetos\Aula24ObjetosComoArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumento.genruntimeconfig.cache
